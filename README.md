@@ -15,3 +15,9 @@ if enableDebugger
   //script(type='text/javascript' charset='utf-8' src='app/node_modules/vconsole/dist/vconsole.min.js')
 script(type='text/javascript' charset='utf-8' src='app/engine/bin/' + cocos2d)
 ```
+## 安卓运行相关
+cocos creator version 3.7.2
+android studio version 2022.2.1 patch 2
+
+### unsupported java
+android studio--set--Build,Execution,Deployment--build tools--Gradle JDK 版本选择 11(如果没有下载一个版本
